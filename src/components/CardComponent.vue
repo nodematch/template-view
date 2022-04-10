@@ -5,7 +5,7 @@
       <div class="card-text fs-5 py-3" v-html="content.message"></div>
       <div class="text-center">
         <img
-          :src="require(`../assets/${content.image}`)"
+          :src="require(`../assets/img/${content.image}`)"
           class="img-fluid rounded"
           alt="ImageHere"
         />

@@ -12,7 +12,7 @@
       </div>
       <div class="text-center">
         <img
-          src="../assets/RAUL_VALDES.jpg"
+          src="../assets/img/p1.jpg"
           class="img-fluid rounded"
           alt="ImageHere"
         />
