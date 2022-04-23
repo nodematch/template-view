@@ -20,14 +20,14 @@
         <ul class="navbar-nav me-auto mb-2 mb-lg-0">
           <div v-for="item in menuContents" :key="item.text">
             <li class="nav-item">
-              <h5
+              <div
                 class="nav-link active px-2 mx-1 my-auto text-primary fs-4"
                 aria-current="page"
                 type="button"
                 @click="item.func"
               >
                 {{ item.text }}
-              </h5>
+              </div>
             </li>
           </div>
         </ul>

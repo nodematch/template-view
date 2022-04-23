@@ -18,7 +18,28 @@
         />
       </div>
     </div>
-    <div class="p-2">
+    <div class="text-center bg-light my-2">
+      <p class="fs-3 pt-2 text-center">活動の記録（FaceBookより）</p>
+      <div
+        class="fb-page"
+        data-href="https://www.facebook.com/amahosp/"
+        data-tabs="timeline"
+        data-width="500"
+        data-height="500"
+        data-small-header="true"
+        data-adapt-container-width="true"
+        data-hide-cover="true"
+        data-show-facepile="false"
+      >
+        <blockquote
+          cite="https://www.facebook.com/amahosp/"
+          class="fb-xfbml-parse-ignore"
+        >
+          <a href="https://www.facebook.com/amahosp/">あま市民病院</a>
+        </blockquote>
+      </div>
+    </div>
+    <!-- <div class="p-2">
       <table class="table table-borderless bg-info rounded">
         <tbody>
           <tr>
@@ -29,14 +50,14 @@
           </tr>
         </tbody>
       </table>
-    </div>
-    <div class="p-2">
+    </div> -->
+    <!-- <div class="p-2">
       <div class="p-1 fs-5">協力NPO</div>
       <ul class="list-group fs-6">
         <li class="list-group-item">傾聴の会</li>
         <li class="list-group-item">わくわくもりあげ隊</li>
       </ul>
-    </div>
+    </div> -->
     <div class="px-2 py-4 my-4 fs-6 rounded-3 bg-light">
       <p class="fst-italic">ボランティアを一緒にしませんか？</p>
       <p class="fst-italic">
